@@ -1,0 +1,30 @@
+[06-May-2025 06:57:26 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 06:57:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 06:57:54 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 06:57:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 06:58:50 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 06:58:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:00:06 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:00:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:00:30 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:00:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:03:16 UTC] PHP Warning:  require_once(/home/umjnrhjs/public_html/Autohub_Backend/public/index.php): Failed to open stream: No such file or directory in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
+[06-May-2025 07:03:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/umjnrhjs/public_html/Autohub_Backend/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/umjnrhjs/public_html/Autohub_Backend/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/umjnrhjs/public_html/Autohub_Backend/index.php on line 21
