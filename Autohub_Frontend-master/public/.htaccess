@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /sparepart360/
+
+# Don't rewrite files or directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+
+# Rewrite everything else to index.html to allow react-router to handle routing
+RewriteRule . /sparepart360/index.html [L]

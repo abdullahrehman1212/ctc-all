@@ -1,0 +1,20 @@
+{
+	"short_name": "Sparepart360",
+	"name": "Sparepart360 Theme",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "any",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "logo.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#1f2128",
+	"background_color": "#ffffff"
+}

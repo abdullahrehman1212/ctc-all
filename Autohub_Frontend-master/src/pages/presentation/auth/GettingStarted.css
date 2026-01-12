@@ -1,0 +1,104 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+	background-size: cover;
+}
+
+header {
+}
+
+h1 {
+	font-weight: bold;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.btn-primary {
+	background-color: #6200ea;
+	border-color: #6200ea;
+}
+
+.btn-primary:hover {
+	background-color: #3700b3;
+	border-color: #3700b3;
+}
+
+.features-section {
+	text-align: left;
+	padding: 2rem;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.features-section h2 {
+	color: #333;
+}
+
+.features-section ul {
+	padding-left: 0;
+}
+
+.features-section li {
+	font-size: 18px;
+	margin-bottom: 10px;
+	color: #555;
+	list-style: none;
+	position: relative;
+}
+
+.features-section li:before {
+	content: '✔';
+	color: #22c55e;
+	font-weight: bold;
+	margin-right: 10px;
+}
+.ReactCrop__image {
+	max-width: 100%;
+	max-height: 200px;
+	object-fit: contain;
+}
+
+.hover-border{
+	font-size: 18px;
+	margin-right:2rem;
+	padding: 5px;
+	border:1px solid white ;
+}
+.hover-border:hover{
+	border: 1.5px solid white !important;
+}
+
+/* .dashed-line {
+	width: 60%;
+	margin-top: 30px; 
+	text-align: center;
+	border-top: 6px dashed black;
+	border-radius: 10px; 
+	padding: 10px; 
+} */
+
+
+
+.gradient-text {
+	background: linear-gradient(to bottom, #010317, #0E1659);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	color: transparent;
+  }
+
+
+  .custom-card {
+	position: relative; /* or absolute, depending on your layout */
+	top: -100%;
+  }
+  
+  @media (max-width: 767.98px) {
+	.custom-card {
+	  top: auto; /* or remove the top positioning */
+	}
+  }
+  
